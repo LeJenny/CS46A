@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=EncodingUtil
+comment0.text=\r\n\ A\ utility\ class\ to\ provide\ some\ static\ methods\ to\ generate\ \r\n\ the\ USPS\ bar\ encodings\ for\ 5-digit\ zip\ codes.\r\n\r\n\ Step\ 1\:\ Enter\ your\ name\ for\ @author\ and\ the\ password\ for\ @version\r\n\ @author\ \ \r\n\ @version\ \r\n
+numComments=1

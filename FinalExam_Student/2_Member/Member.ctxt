@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Member
+comment0.text=\r\n\ The\ class\ models\ golf\ club\ members\ with\ a\ name\ and\ a\ balance.\r\n\r\n\ Step\ 2\:\ Enter\ your\ name\ for\ @author\ and\ the\ password\ for\ @version\r\n\ @author\ \ Jenny\ Le\r\n\ @version\ MyLastExam\r\n
+comment1.params=nameParam\ balanceParam
+comment1.target=Member(java.lang.String,\ double)
+comment1.text=\r\n\ Initializes\ the\ name\ and\ the\ balance\ to\ the\ parameters,\r\n\ but\ sets\ balance\ to\ MIN_INITIAL_BALANCE\ if\ the\ balance\ \r\n\ parameter\ is\ smaller\ than\ MIN_INITIAL_BALANCE.\r\n\ \r\n\ @param\ nameParam\ the\ name\ of\ this\ member\r\n\ @param\ balanceParam\ the\ balance\ of\ this\ member\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Gets\ a\ string\ representation\ for\ this\ member.\r\n\r\n\ @return\ a\ string\ in\ the\ following\ format\:\r\n\ \ \ \ \ \ \ \ \ \ \ Member[Name\=Joe\ Clifton,Balance\=150.0]\r\n
+comment3.params=
+comment3.target=double\ getBalance()
+comment3.text=\r\n\ Gets\ the\ balance\ of\ this\ member\r\n\ \r\n\ @return\ the\ balance\ of\ this\ member\r\n
+comment4.params=amount
+comment4.target=void\ updateBalance(double)
+comment4.text=\r\n\ Updates\ the\ balance\ of\ this\ member\ by\ adding\ amount\r\n\ to\ the\ balance.\r\n\ \r\n\ @param\ amount\ the\ amount\ to\ update\ the\ balance\r\n
+comment5.params=seed
+comment5.target=char\ randomChar(int)
+comment5.text=\r\n\ Creates\ a\ random\ generator\ with\ a\ given\ seed,\r\n\ then\ generate\ a\ random\ integer\ in\ the\ range\ of\ \r\n\ [0,\ length\ -\ 1],\ where\ length\ is\ the\ length\ of\ \r\n\ the\ name\ of\ this\ member,\ and\ returns\ the\ char\r\n\ in\ the\ name\ at\ that\ index\ position.\r\n\ For\ example,\ if\ the\ name\ is\ "Joe\ Clifton"\ and\r\n\ the\ random\ integer\ is\ 4,\ then\ the\ return\ char\r\n\ is\ 'C'.\r\n\r\n\ @param\ \ seed\ the\ seed\ used\ to\ create\ the\ random\ generator\r\n\ @return\ the\ character\ at\ the\ random\ index\ position\r\n
+numComments=6

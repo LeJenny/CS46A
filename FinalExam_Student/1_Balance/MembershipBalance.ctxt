@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MembershipBalance
+comment0.text=\r\n\ A\ Java\ program\ to\ input\ a\ payment\ for\ the\ membership\ of\ a\ golf\ club\r\n\ then\ calculate\ the\ bonus\ and\ the\ total\ balance\ based\ on\ the\ payment.\r\n\r\n\ Step\ 2\:\ Enter\ your\ name\ for\ @author\ and\ the\ password\ for\ @version.\r\n\ @author\ \ Jenny\ Le\r\n\ @version\ MyLastExam\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
